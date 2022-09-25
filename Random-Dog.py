@@ -1,5 +1,4 @@
 ##Use the command !!dog in discord
-###Used https://dev.to/mikeywastaken/discord-py-project-3-random-dog-pics-3b4a
 import discord
 import os
 from discord.ext import commands
